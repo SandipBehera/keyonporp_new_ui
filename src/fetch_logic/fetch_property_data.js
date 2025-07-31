@@ -14,8 +14,8 @@ export const fetchFeatureData = async () => {
 export const fetchPropertyData = async () => {
     try {
       const response = await fetch('../data/properties.json');
-      const data = await response.json();
-      return data;
+      return await response.json();
+       ;
     } catch (error) {
       console.error('Error fetching data:', error);
       return null;

@@ -16,7 +16,9 @@ export default function Layout({ children, metaTitle, metaDescription, metaKeywo
             metaDescription ||
             "KeyonProperties Consultans and agency in hyderabad one of the leading website in hyderabad with 30+ A1 projects KeyonProp.com"
           }
-        />
+          />
+          <meta name="keywords" content={metaKeywords || "KeyonProperties, KeyonProp, KeyonProp.com, KeyonProperties Consultans, KeyonProperties agency, KeyonProperties hyderabad, KeyonProperties leading website, KeyonProperties 30+ A1 projects"} />
+        
         </Helmet>
         <Header />
         {children}

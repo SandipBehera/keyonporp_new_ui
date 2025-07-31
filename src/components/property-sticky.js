@@ -14,10 +14,10 @@ const PropertySticky = ({ data }) => {
     watch,
     formState: { errors },
   } = useForm();
-  const [
-    descriptions,
+  const {
+    project_description,
     location,
-    projectName,
+    project_name,
     apartmentTypes,
     buildingDetails,
     areaSize,
@@ -25,7 +25,7 @@ const PropertySticky = ({ data }) => {
     project_location,
     money,
     gallery,
-  ] = data;
+   } = data;
   const datePickerRef1 = useRef(null);
   const datePickerRef2 = useRef(null);
 
@@ -53,7 +53,7 @@ const PropertySticky = ({ data }) => {
       name: data.name,
       phone: data.phone,
       email: data.email,
-      projectName: projectName
+      projectName: project_name
     }
     const response = await fetch(save_leads,{
       method: 'POST',
@@ -81,7 +81,7 @@ const PropertySticky = ({ data }) => {
                   <i className="fa-solid fa-location-dot me-1" />
                   {location}
                 </div>
-                <h2 className="mt-0">{projectName}</h2>
+                <h2 className="mt-0">{project_name}</h2>
                 {/* Start Card Property Facilities */}
                 <div className="card-property-facilities gap-2 hstack mt-auto pt-3 text-center">
                   <div className="">
@@ -112,7 +112,7 @@ const PropertySticky = ({ data }) => {
                 </h4>
                 {/* End Title */}
                 {/* Start Description */}
-                {descriptions?.map((desc, index) => (
+                {project_description?.map((desc, index) => (
                   <p key={index}>{desc.description}</p>
                 ))}
               </div>

@@ -3,6 +3,7 @@ import "magnific-popup/dist/magnific-popup.css";
 
 
 function PopUpImageGalleryThree({ galleryData }) {
+  console.log(galleryData);
   useEffect(() => {
     // Initialize Magnific Popup on your gallery
     if (typeof window !== "undefined") {

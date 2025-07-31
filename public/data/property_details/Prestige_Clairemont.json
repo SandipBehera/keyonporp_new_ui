@@ -1,0 +1,219 @@
+{
+    "project_name": "Prestige Clairemont",
+    "developed_by": "Prestige Group",
+    "project_type": "Residential",
+    "location": "Neopolis, Kokapet",
+    "description": "Prestige Clairemont is located in Neopolis, a newly established, futuristic, 500+ acre layout in Kokapet, which extends from the financial district.",
+    "bedroom": "3 & 4 BHK, Flats",
+    "tower": "6 Tower - 39 Floors",
+    "area": "7.56 Acres",
+    "money": "On Request",
+    "project_description": [
+      {
+        "description": "Futuristic Urban Oasis: Prestige Clairemont stands proudly within Neopolis, a visionary urban expanse in Kokapet, Hyderabad. Spanning over 500 acres, Neopolis emerges as a beacon of futuristic urban development, blending innovation with functionality."
+      },
+      {
+        "description": "Government-Backed Innovation Hub: Crafted under the visionary leadership of the Telangana Government, Neopolis is meticulously designed to redefine urban living standards nationwide. It serves as a pioneering model for advanced infrastructure and smart city planning, embodying the essence of a progressive society."
+      },
+      {
+        "description": "Epicenter of Tomorrow’s Hyderabad: Neopolis serves as the nucleus of future Hyderabad, embodying the city's evolution towards modernity and sophistication. As the landscape continues to transform, Neopolis emerges as a testament to Hyderabad's journey towards becoming a global metropolis."
+      },
+      {
+        "description": "EUnrestricted Urban Canvas: Unlike conventional urban landscapes, Neopolis boasts a unique absence of zoning and height restrictions, fostering boundless creativity and innovation in architectural design. This liberated environment empowers developers to envision and actualize their boldest aspirations."
+      },
+      {
+        "description": "Integrated Community Hub: Within Neopolis, Prestige Clairemont seamlessly integrates with its surroundings, forming a harmonious blend of commercial and residential spaces. This symbiotic relationship ensures convenience and accessibility while preserving the distinct identity of each precinct."
+      },
+      {
+        "description": "Premium Living Redefined: Prestige Clairemont epitomizes luxury living within Neopolis, offering an unparalleled residential experience. Boasting premium amenities and exquisite craftsmanship, it sets a new standard for contemporary urban dwellings, where comfort meets sophistication."
+      },
+      {
+        "description": "A Vision of Progress: Neopolis emerges as a testament to human ingenuity and the relentless pursuit of progress. As it continues to evolve, it symbolizes the collective aspirations of a community striving for excellence in every facet of urban living."
+      }
+    ],
+    "gallery": {
+      "prop_images": [
+        {
+          "title": "Prestige Clairemont 1",
+          "src": "assets/keyon_img/property_img/Prestige/gal11.webp"
+        },
+        {
+          "title": "Prestige Clairemont 2",
+          "src": "assets/keyon_img/property_img/Prestige/gal11.jpeg"
+        },
+        {
+          "title": "Prestige Clairemont 1",
+          "src": "assets/keyon_img/property_img/Prestige/gal9.webp"
+        },
+        {
+          "title": "Prestige Clairemont 2",
+          "src": "assets/keyon_img/property_img/Prestige/gal2.jpeg"
+        },
+        {
+          "title": "Prestige Clairemont 1",
+          "src": "assets/keyon_img/property_img/Prestige/gal3.webp"
+        },
+        {
+          "title": "Prestige Clairemont 2",
+          "src": "assets/keyon_img/property_img/Prestige/gal4.webp"
+        },
+        {
+          "title": "Prestige Clairemont 1",
+          "src": "assets/keyon_img/property_img/Prestige/gal5.webp"
+        },
+        {
+          "title": "Prestige Clairemont 2",
+          "src": "assets/keyon_img/property_img/Prestige/gal6.webp"
+        },
+        {
+          "title": "Prestige Clairemont 1",
+          "src": "assets/keyon_img/property_img/Prestige/gal7.webp"
+        },
+        {
+          "title": "Prestige Clairemont 2",
+          "src": "assets/keyon_img/property_img/Prestige/gal8.webp"
+        },
+        {
+          "title": "Prestige Clairemont 1",
+          "src": "assets/keyon_img/property_img/Prestige/gal10.webp"
+        },
+        {
+          "title": "Prestige Clairemont 2",
+          "src": "assets/keyon_img/property_img/Prestige/gal11.webp"
+        }
+      ],
+      "floor_plan": [
+        {
+          "title": "Prestige Clairemont floor 1",
+          "src": "assets/keyon_img/property_img/Prestige/floor1.webp"
+        },
+  
+        {
+          "title": "Prestige Clairemont floor 2",
+          "src": "assets/keyon_img/property_img/Prestige/floor2.webp"
+        },
+        {
+          "title": "Prestige Clairemont floor 3",
+          "src": "assets/keyon_img/property_img/Prestige/floor3.webp"
+        },
+        {
+          "title": "Prestige Clairemont floor 4",
+          "src": "assets/keyon_img/property_img/Prestige/floor4.webp"
+        },
+        {
+          "title": "Prestige Clairemont floor 5",
+          "src": "assets/keyon_img/property_img/Prestige/floor5.webp"
+        },
+        {
+          "title": "Prestige Clairemont floor 6",
+          "src": "assets/keyon_img/property_img/Prestige/floor6.webp"
+        }
+      ],
+     
+      "master_plan": [
+        {
+          "title": "Prestige Clairemont master plan",
+          "src": "assets/keyon_img/property_img/Prestige/master.webp"
+        }
+      ]
+    },
+    "amenities": {
+      "amenities": [
+        {
+          "title": "Reception desk and lounge.",
+          "src": "fa-video"
+        },
+        {
+          "title": " Library With Lounge",
+          "src": "fa-book"
+        },
+        {
+          "title": " Swimming Pool",
+          "src": "fa-water-ladder"
+        },
+        {
+          "title": "Gym",
+          "src": "fa-dumbbell"
+        },
+        {
+          "title": "Pharmacy",
+          "src": "fa-prescription"
+        },
+        {
+          "title": "Jogging Track",
+          "src": "fa-person-running"
+        },
+        {
+          "title": "Community Hall",
+          "src": "fa-group-arrows-rotate"
+        },
+        {
+          "title": "Banquet Hall",
+          "src": "fa-shop"
+        },
+        {
+          "title": "Ootdoor & Indoor Games",
+          "src": "fa-futbol"
+        },
+        {
+          "title": "Utility Shop",
+          "src": "fa-gears"
+        },
+        {
+          "title": "Garden",
+          "src": "fa-tree-city"
+        },
+        {
+          "title": "kids Play area",
+          "src": "fa-children"
+        }
+      ]
+    },
+    "project_location": {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.123694924003!2d78.30260117515543!3d17.405850502273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb958e469a6185%3A0x7f9836383b160575!2sPrestige%20Clairemont!5e0!3m2!1sen!2sin!4v1715940366733!5m2!1sen!2sin" 
+    },
+    "nearby_projects": [
+        {
+            "id": 2,
+            "img": "assets/keyon_img/property_img/sattva/Lake-Ridge-banner-2.webp",
+            "status": "Trending Property",
+            "name": "Sattva Lakeridge",
+            "location": "Neopolis,Kokapet",
+            "description": "Welcome to a higher dimension of luxury at Neopolis, Hyderabad. Designed by the best minds in the industry, the 6 marvelous towers at Sattva LakeRidge complement your mindset like nothing else.",
+            "bedroom": "3, 4 & 5 BHK",
+            "tower": "6 Tower - G+37 Floors",
+            "area": "9.5 Acres",
+            "money": "Price Starts From ₹ 3.75cr*"
+          },
+           {
+            "id": 3,
+            "img": "assets/keyon_img/property_img/sascrown/sas-l-g4.jpg",
+            "status": "Trending Property",
+            "name": "SAS Crown",
+            "location": "Kokapet,Hyderabad",
+            "description": "SAS Crown luxury is a notch higher. This G+57 floors sky high structure, with 82% open to sky space, is spread across 4.5 acres of pristine green surroundings with homes in 3 different sizes.",
+            "bedroom": "4 BHK",
+            "tower": "5 Tower - G+57 Floors",
+            "area": "4.5 Acres",
+            "money": "4 BHK Starts From ₹ 7.47cr*"
+          },
+          {
+            "id": 4,
+            "img": "assets/keyon_img/property_img/marina/western-marina-bottom-view.webp",
+            "status": "Trending Property",
+            "name": "Western Marina",
+            "location": "Financial District, Hyderabad",
+            "description": "Nature-Infused Urban Living at Nanakramguda, Gachibowli.Unmatched Grandeur with modern minimalism, resulting in an exclusive & harmonious space designed for an unparalleled experience at Nakaramguda, Gachibowli",
+            "bedroom": "4 BHK",
+            "tower": "4 Tower - G+45 Floors",
+            "area": "7.75 Acres",
+            "money": "4 BHK Starts From ₹ 6.75cr*"
+          }
+    ],
+    "SEO":{
+        "title":"Prestige Clairemont | Buy 3 BHK & 4 BHK Flats in Hyderabad | Apartment || Keyon Properties",
+        "description":"Prestige Clairemont - Buy 3 BHK/ 4 BHK Flats in Kokapet, Hyderabad with Vaastu Compliant and World Class Amenities at prominent location. Book Your Site Visit Today!",
+        "keywords":"Prestige Clairemont, Prestige Clairemont Hyderabad, Prestige Clairemont Kokapet, Prestige Clairemont 3 BHK Flats, Prestige Clairemont 4 BHK Flats, Prestige Clairemont Amenities, Prestige Clairemont Price, Prestige Clairemont Location, Prestige Clairemont Gallery, Prestige Clairemont Floor Plan, Prestige Clairemont Master Plan, Prestige Clairemont Nearby Projects, Prestige Clairemont Reviews, Prestige Clairemont Offers, Prestige Clairemont Contact Us, Prestige Clairemont FAQ, Prestige Clairemont Amenities, Prestige Clairemont Specifications, Prestige Clairemont RERA, Prestige Clairemont Brochure, Prestige Clairemont Video, Prestige Clairemont Virtual Tour, Prestige Clairemont 360 View, Prestige Clairemont Payment Plan, Prestige Clairemont EMI Calculator, Prestige Clairemont Home Loan, Prestige Clairemont Application Form, Prestige Clairemont Site Visit, Prestige Clairemont Construction Update, Prestige Clairemont Progress, Prestige Clairemont Possession Date, Prestige Clairemont Reviews, Prestige Clairemont Feedback, Prestige Clairemont Complaints, Prestige Clairemont Suggestions, Prestige Clairemont Queries, Prestige Clairemont FAQ, Prestige Clairemont Legal, Prestige Clairemont Terms & Conditions, Prestige Clairemont Privacy Policy, Prestige Clairemont Disclaimer, Prestige Clairemont About Us, Prestige Clairemont Contact Us, Prestige Clairemont Careers, Prestige Clairemont Blog, Prestige Clairemont News, Prestige Clairemont Updates, Prestige Clairemont Press Release, Prestige Clairemont Brochure, Prestige Clairemont E-Brochure, Prestige Clairemont Download, Prestige Clairemont Offers, Prestige Clairemont Discounts, Prestige Clairemont Deals, Prestige Clairemont Special Offers, Prestige Clairemont Special Discounts, Prestige Clairemont Special Deals, Prestige Clairemont Price List, Prestige Clairemont Cost, Prestige Clairemont Budget, Prestige Clairemont Affordable, Prestige Clairemont Luxury, Prestige Clairemont Premium, Prestige Clairemont High End, Prestige Clairemont Low End, Prestige Clairemont Mid End, Prestige Clairemont Booking, Prestige Clairemont Registration, Prestige Clairemont Pre Launch, Prestige Clairemont Launch, Prestige Clairemont Ready To Move, Prestige Clairemont Under Construction, Prestige Clairemont Ongoing, Prestige Clairemont Upcoming"
+      }
+  }
+  

@@ -1,0 +1,231 @@
+{
+    "project_name": "Western Marina",
+    "developed_by": "Western Constructions",
+    "project_type": "Residential",
+    "location": "Nanakramguda, Hyderabad",
+    "description": "Western Marina presents expansive 5495 to 10910 square feet residences, epitomizing luxury living in the heart of Nanakaramguda, Gachibowli. With 4 bedrooms and contemporary design, each unit is a testament to refined taste and sophistication.",
+    "bedroom": "4 BHK, Flats",
+    "tower": "4 Tower - 45 Floors",
+    "area": "7.75 Acres",
+    "money": "On Request",
+    "project_description": [
+      {
+        "description": "Futuristic Urban Oasis: Prestige Clairemont stands proudly within Neopolis, a visionary urban expanse in Kokapet, Hyderabad. Spanning over 500 acres, Neopolis emerges as a beacon of futuristic urban development, blending innovation with functionality."
+      },
+      {
+        "description": "Tower of Prestige: Standing tall with 45 floors, Western Marina commands attention as a symbol of prestige and sophistication. Its towering presence in Nakaramguda, Gachibowli, signifies a lifestyle elevated above the ordinary."
+      },
+      {
+        "description": "Abundance of Options: With 450 units spread across four towersin 7.75 Acres, Western Marina provides a diverse range of living options to suit every lifestyle and preference. Whether you seek a cozy retreat or a sprawling penthouse, there's a residence tailored just for you."
+      },
+      {
+        "description": "Western Marina marries unmatched grandeur with modern minimalism, resulting in a timeless architectural masterpiece. Every corner exudes sophistication, from the sleek facade to the thoughtfully designed interiors."
+      },
+      {
+        "description": "Exclusivity Personified: Experience exclusivity like never before at Western Marina, where every aspect of the living experience is curated for a select few. From the private amenities to the personalized service, residents enjoy a lifestyle reserved for the discerning few."
+      },
+      {
+        "description": "Western Marina seamlessly integrates into the vibrant fabric of Nakaramguda, Gachibowli, offering residents the best of both worlds. Enjoy the tranquility of suburban living without sacrificing access to the city's conveniences and attractions."
+      },
+      {
+        "description": "Unparalleled Luxury: Prepare to be immersed in unparalleled luxury and sophistication at Western Marina. Every detail is meticulously designed to elevate your living experience, ensuring that each moment spent within its walls is nothing short of extraordinary."
+      }
+    ],
+    "gallery": {
+      "prop_images": [
+        {
+          "title": "Western Marina 1",
+          "src": "assets/keyon_img/property_img/marina/2.jpg"
+        },
+        {
+          "title": "Western Marina 2",
+          "src": "assets/keyon_img/property_img/marina/3.jpg"
+        },
+        {
+          "title": "Western Marina 1",
+          "src": "assets/keyon_img/property_img/marina/4.jpg"
+        },
+        {
+          "title": "Western Marina 2",
+          "src": "assets/keyon_img/property_img/marina/western-marina-main-enterence-1.webp"
+        },
+        {
+          "title": "Western Marina 1",
+          "src": "assets/keyon_img/property_img/marina/western-marina-top-view.webp"
+        },
+        {
+          "title": "Western Marina 2",
+          "src": "assets/keyon_img/property_img/marina/western-marina-outside-view-01.webp"
+        },
+        {
+          "title": "Western Marina 1",
+          "src": "assets/keyon_img/property_img/marina/Image-51-scaled.jpg"
+        },
+        {
+          "title": "Western Marina 2",
+          "src": "assets/keyon_img/property_img/marina/Image-48-scaled.jpg"
+        },
+        {
+          "title": "Western Marina 1",
+          "src": "assets/keyon_img/property_img/marina/Image-52-scaled.jpg"
+        },
+        {
+          "title": "Western Marina 2",
+          "src": "assets/keyon_img/property_img/marina/sitec-1.jpg"
+        },
+        {
+          "title": "Western Marina 1",
+          "src": "assets/keyon_img/property_img/marina/WESTERN_SITE-C_RESIDENTIAL-01_-19-02-2022-1-25.png"
+        },
+        {
+          "title": "Western Marina 2",
+          "src": "assets/keyon_img/property_img/marina/western-marina-walking-track.webp"
+        },
+        {
+          "title": "Western Marina 1",
+          "src": "assets/keyon_img/property_img/marina/western-marina-main-enterence-1.webp"
+        },
+        {
+          "title": "Western Marina 2",
+          "src": "assets/keyon_img/property_img/marina/Image-49.jpg"
+        }
+      ],
+      "floor_plan": [
+        {
+          "title": "Western Marina floor 1",
+          "src": "assets/keyon_img/property_img/marina/tower-01.webp"
+        },
+  
+        {
+          "title": "Western Marina floor 2",
+          "src": "assets/keyon_img/property_img/marina/tower-01-type-01.webp"
+        },
+        {
+          "title": "Western Marina floor 3",
+          "src": "assets/keyon_img/property_img/marina/tower-01-type-02.webp"
+        },
+        {
+          "title": "Western Marina floor 4",
+          "src": "assets/keyon_img/property_img/marina/tower-01-type-03.webp"
+        },
+        {
+          "title": "Western Marina floor 5",
+          "src": "assets/keyon_img/property_img/marina/tower-02.webp"
+        },
+        {
+          "title": "Western Marina floor 6",
+          "src": "assets/keyon_img/property_img/marina/tower-03.webp"
+        },
+        {
+            "title": "Western Marina floor 6",
+            "src": "assets/keyon_img/property_img/marina/tower-04.webp"
+          }
+      ],
+     
+      "master_plan": [
+        {
+          "title": "Western Marina master plan",
+          "src": "assets/keyon_img/property_img/marina/layout-1.png"
+        }
+      ]
+    },
+    "amenities": {
+      "amenities": [
+        {
+          "title": "Reception desk and lounge.",
+          "src": "fa-video"
+        },
+        {
+          "title": " Library With Lounge",
+          "src": "fa-book"
+        },
+        {
+          "title": " Swimming Pool",
+          "src": "fa-water-ladder"
+        },
+        {
+          "title": "Gym",
+          "src": "fa-dumbbell"
+        },
+        {
+          "title": "Pharmacy",
+          "src": "fa-prescription"
+        },
+        {
+          "title": "Jogging Track",
+          "src": "fa-person-running"
+        },
+        {
+          "title": "Community Hall",
+          "src": "fa-group-arrows-rotate"
+        },
+        {
+          "title": "Banquet Hall",
+          "src": "fa-shop"
+        },
+        {
+          "title": "Ootdoor & Indoor Games",
+          "src": "fa-futbol"
+        },
+        {
+          "title": "Utility Shop",
+          "src": "fa-gears"
+        },
+        {
+          "title": "Garden",
+          "src": "fa-tree-city"
+        },
+        {
+          "title": "kids Play area",
+          "src": "fa-children"
+        }
+      ]
+    },
+    "project_location": {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.0352042806776!2d78.34614577515548!3d17.410098102150414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9587d37c3db1%3A0x5314ddcf4f745dc2!2swestern%20constructions%20marina!5e0!3m2!1sen!2sin!4v1714656258826!5m2!1sen!2sin"
+    },
+    "nearby_projects": [
+        {
+            "id": 2,
+            "img": "assets/keyon_img/property_img/sattva/Lake-Ridge-banner-2.webp",
+            "status": "Trending Property",
+            "name": "Sattva Lakeridge",
+            "location": "Neopolis,Kokapet",
+            "description": "Welcome to a higher dimension of luxury at Neopolis, Hyderabad. Designed by the best minds in the industry, the 6 marvelous towers at Sattva LakeRidge complement your mindset like nothing else.",
+            "bedroom": "3, 4 & 5 BHK",
+            "tower": "6 Tower - G+37 Floors",
+            "area": "9.5 Acres",
+            "money": "Price Starts From ₹ 3.75cr*"
+          },
+           {
+            "id": 3,
+            "img": "assets/keyon_img/property_img/sascrown/sas-l-g4.jpg",
+            "status": "Trending Property",
+            "name": "SAS Crown",
+            "location": "Kokapet,Hyderabad",
+            "description": "SAS Crown luxury is a notch higher. This G+57 floors sky high structure, with 82% open to sky space, is spread across 4.5 acres of pristine green surroundings with homes in 3 different sizes.",
+            "bedroom": "4 BHK",
+            "tower": "5 Tower - G+57 Floors",
+            "area": "4.5 Acres",
+            "money": "4 BHK Starts From ₹ 7.47cr*"
+          },
+          {
+            "id": 4,
+            "img": "assets/keyon_img/property_img/marina/western-marina-bottom-view.webp",
+            "status": "Trending Property",
+            "name": "Western Marina",
+            "location": "Financial District, Hyderabad",
+            "description": "Nature-Infused Urban Living at Nanakramguda, Gachibowli.Unmatched Grandeur with modern minimalism, resulting in an exclusive & harmonious space designed for an unparalleled experience at Nakaramguda, Gachibowli",
+            "bedroom": "4 BHK",
+            "tower": "4 Tower - G+45 Floors",
+            "area": "7.75 Acres",
+            "money": "4 BHK Starts From ₹ 6.75cr*"
+          }
+    ],
+    "SEO":{
+        "title":"Western Marina Uber Luxe 4BHK Apartments in Nanakaramguda, Puppalaguda || Keyon Properties",
+        "description":"Western Marina Uber luxury 4bhk gated community flats for sale in Nanakaramguda, puppalaguda Hyderabad. Book your site visit for Nanakramguda's architectural marvel.",
+        "keywords":"western marina, 4bhk paratment in Nanakaramguda, 4bhk flats in Gachibowli"
+      }
+  }
+  

@@ -1,0 +1,203 @@
+{
+    "project_name": "Auro Realty Kohinoor",
+    "developed_by": "Auro Realty",
+    "project_type": "Residential",
+    "location": "Hitech City, Hyderabad",
+    "description": "3 & 4 BHK Apartment in Hitech City Experience Comfort With a touch of Glamour",
+    "bedroom": "3 & 4 BHK, Flats",
+    "tower": "7 Tower - 42 Floors",
+    "area": "12.03 Acres",
+    "money": "On Request",
+    "project_description": [
+      {
+        "description": "A Towering Testament to Luxury: Auro Realty Kohinoor proudly stands as a collection of the seven tallest towers in Hyderabad, symbolizing the pinnacle of abundant luxury reserved for the select few. Each tower is a majestic beacon of opulence, meticulously designed to epitomize a radiant and top-notch lifestyle."
+      },
+      {
+        "description": "Your Gateway to Exclusive Living: Kohinoor is more than just a residential complex; it's a carefully crafted masterpiece that caters to diverse lifestyles. Whether you seek flats in Madhapur, gated communities in Kukatpally, or nearby areas, Kohinoor offers an unparalleled living experience tailored to your desires."
+      },
+      {
+        "description": "Crafted with Precision and Care: Just like a flawless diamond, Kohinoor is the culmination of meticulous craftsmanship and thoughtful design. Built upon the foundation of the four essential C's of diamond-making, Kohinoor shines with clarity and brilliance, offering residents a life of unparalleled splendor."
+      },
+      {
+        "description": "Prime Locations, Dream Homes: If you've been dreaming of owning a home in coveted locations like Jubilee Hills or HITEC City, look no further than Kohinoor. Whether it's a 3 BHK in Madhapur, an apartment in Jubilee Hills, or a flat in Kukatpally, Kohinoor offers the perfect blend of luxury and convenience."
+      },
+      {
+        "description": "Your Search Ends Here: Say goodbye to endless property searches and welcome to the world of Auro Realty Kohinoor. Whether you're in search of gated community flats in Jubilee Hills, apartments in Madhapur, or flats in Kukatpally, Kohinoor promises to fulfill your every desire for luxurious living."
+      },
+      {
+        "description": "A New Era of Real Estate: Auro Realty Private Limited represents a new breed of real estate developers, driven by technology, professionalism, and a commitment to customer satisfaction. With a focus on performance and innovation, we strive to redefine the realty market and deliver unforgettable buyer experiences in a regulated environment."
+      },
+        {
+        "description": "Join Us on the Journey: We invite you to join us on our journey of growth and success. At Auro Realty, we don't just build homes; we create communities where dreams are realized and memories are made. Come, be a part of our vision for a brighter future in real estate."
+      }
+    ],
+    "gallery": {
+      "prop_images": [
+        {
+          "title": "Auro Realty Kohinoor 1",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/main5.png"
+        },
+        {
+          "title": "Auro Realty Kohinoor 2",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/main6.png"
+        },
+        {
+          "title": "Auro Realty Kohinoor 1",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/main4.png"
+        },
+        {
+          "title": "Auro Realty Kohinoor 2",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/main2.png"
+        },
+        {
+          "title": "Auro Realty Kohinoor 1",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/main1.png"
+        },
+        {
+          "title": "Auro Realty Kohinoor 2",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/club.png"
+        },
+        {
+          "title": "Auro Realty Kohinoor 1",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/ent.png"
+        },
+        {
+          "title": "Auro Realty Kohinoor 2",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/kohinoor-specification.jpg"
+        }
+      ],
+      "floor_plan": [
+        {
+          "title": "Auro Realty Kohinoor floor 1",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/floor1.png"
+        },
+  
+        {
+          "title": "Auro Realty Kohinoor floor 2",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/floor2.png"
+        },
+        {
+          "title": "Auro Realty Kohinoor floor 3",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/floor3.png"
+        },
+        {
+          "title": "Auro Realty Kohinoor floor 4",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/floor4.png"
+        },
+        {
+          "title": "Auro Realty Kohinoor floor 5",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/floor5.png"
+        },
+        {
+          "title": "Auro Realty Kohinoor floor 6",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/floor7.png"
+        }
+      ],
+     
+      "master_plan": [
+        {
+          "title": "Auro Realty Kohinoor master plan",
+          "src": "assets/keyon_img/property_img/Aurobindo/Kohinoor/master.jpg"
+        }
+      ]
+    },
+    "amenities": {
+      "amenities": [
+        {
+          "title": "Reception desk and lounge.",
+          "src": "fa-video"
+        },
+        {
+          "title": " Library With Lounge",
+          "src": "fa-book"
+        },
+        {
+          "title": " Swimming Pool",
+          "src": "fa-water-ladder"
+        },
+        {
+          "title": "Gym",
+          "src": "fa-dumbbell"
+        },
+        {
+          "title": "Pharmacy",
+          "src": "fa-prescription"
+        },
+        {
+          "title": "Jogging Track",
+          "src": "fa-person-running"
+        },
+        {
+          "title": "Community Hall",
+          "src": "fa-group-arrows-rotate"
+        },
+        {
+          "title": "Banquet Hall",
+          "src": "fa-shop"
+        },
+        {
+          "title": "Ootdoor & Indoor Games",
+          "src": "fa-futbol"
+        },
+        {
+          "title": "Utility Shop",
+          "src": "fa-gears"
+        },
+        {
+          "title": "Garden",
+          "src": "fa-tree-city"
+        },
+        {
+          "title": "kids Play area",
+          "src": "fa-children"
+        }
+      ]
+    },
+    "project_location": {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.869441608537!2d78.38019727515656!3d17.465961900536772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93b165b28615%3A0x1f647e096b90b32c!2sKohinoor%20by%20Auro%20Realty%2C%20Hyderabad%20(Formerly%20Aurobindo%20Realty)!5e0!3m2!1sen!2sin!4v1714379530414!5m2!1sen!2sin"
+    },
+    "nearby_projects": [
+      {
+        "id": 2,
+        "img": "assets/keyon_img/property_img/sattva/Semi-Aerial_Eminence_1-scaled.webp",
+        "status": "Trending Property",
+        "name": "Sattva Lakeridge",
+        "location": "Neopolis,Kokapet",
+        "description": "Welcome to a higher dimension of luxury at Neopolis, Hyderabad. Designed by the best minds in the industry, the 6 marvelous towers at Sattva LakeRidge complement your mindset like nothing else.",
+        "bedroom": "3, 4 & 5 BHK",
+        "tower": "6 Tower - G+37 Floors",
+        "area": "9.5 Acres",
+        "money": "Price Starts From ₹ 3.75cr*"
+      },
+       {
+        "id": 3,
+        "img": "assets/keyon_img/property_img/palazzo/POULOMI_PALAZZO_EXT_02CLIENT.jpg",
+        "status": "Trending Property",
+        "name": "Poulomi Palazzo",
+        "location": "Kokapet,Hyderabad",
+        "description": "55 STORIES OF LUXURY-The crux of luxury living is impeccable planning, so your home and surroundings imbibe a smooth flow and easy living. Immaculate planning translates to a seamless home, holds the best influx of light and air, and is the perfect canvas to create a home to your taste.",
+        "bedroom": "4 BHK",
+        "tower": "3 Tower - G+55 Floors",
+        "area": "4.6 Acres",
+        "money": "4 BHK Starts From ₹ 7.47cr*"
+      },
+      {
+        "id": 4,
+        "img": "assets/keyon_img/property_img/marina/western-marina-bottom-view.webp",
+        "status": "Trending Property",
+        "name": "Western Marina",
+        "location": "Financial District, Hyderabad",
+        "description": "Nature-Infused Urban Living at Nanakramguda, Gachibowli.Unmatched Grandeur with modern minimalism, resulting in an exclusive & harmonious space designed for an unparalleled experience at Nakaramguda, Gachibowli",
+        "bedroom": "4 BHK",
+        "tower": "4 Tower - G+45 Floors",
+        "area": "7.75 Acres",
+        "money": "4 BHK Starts From ₹ 6.75cr*"
+      }
+    ],
+    "SEO":{
+      "title":"Kohinoor Project By Auro Realty-3 & 4 BHK Flats For Sale in HITEC City || Keyon Properties",
+      "description":" 3, 4 BHK flats for sale in Hitech City, Hyderabad. Kohinoor are Luxury Apartments in Hitech City, Hyderabad, offering world-class amenities. ",
+      "keywords":" Kohinoor by Auro Realty, 3 BHK luxury Apartments in Hyderabad, 3 BHK Apartments in Hyderabad, 4 BHK Flats in Hyderabad "
+    }
+  }
+  

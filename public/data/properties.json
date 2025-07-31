@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "img": "assets/keyon_img/property_img/sattva/Semi-Aerial_Eminence_1-scaled.webp",
+    "status": "Hot Selling",
+    "name": "Sattva LakeRidge",
+    "location": "Neopolis, Kokapet",
+    "description": "Sattva Lakeridge - Ultra premium residencies facing the panoramic views of Osman Sagar and Kokapet Lake meet the lavishness of Neopolis Hyderabad.",
+    "bedroom": "3, 4, & 5 BHK Flats",
+    "tower": "6 Tower - G+37 Floors",
+    "area": "9.5 Acres",
+    "money": "Starts From ₹ 11,200 PSF",
+    "location_keyword": [
+      "Gachibowli,Kokapet,Neopolis,Financial Dist,Hyderabad"
+    ]
+  },
+  {
+    "id": 2,
+    "img": "assets/keyon_img/property_img/palazzo/POULOMI_PALAZZO_EXT_02CLIENT.jpg",
+    "status": "Trending Property",
+    "name": "Poulomi Palazzo",
+    "location": "Kokapet,Hyderabad",
+    "description": "55 STORIES OF LUXURY-The crux of luxury living is impeccable planning, so your home and surroundings imbibe a smooth flow and easy living. Immaculate planning translates to a seamless home, holds the best influx of light and air, and is the perfect canvas to create a home to your taste.",
+    "bedroom": "4 BHK",
+    "tower": "3 Tower - G+55 Floors",
+    "area": "4.6 Acres",
+    "money": "4 BHK Starts From ₹ 7.47cr",
+    "location_keyword": [
+      "Gachibowli,Kokapet,Neopolis,Financial Dist,Hyderabad"
+    ]
+  },
+  {
+    "id": 3,
+    "img": "assets/keyon_img/property_img/marina/western-marina-bottom-view.webp",
+    "status": "Trending Property",
+    "name": "Western Marina",
+    "location": "Financial District, Hyderabad",
+    "description": "Nature-Infused Urban Living at Nanakramguda, Gachibowli.Unmatched Grandeur with modern minimalism, resulting in an exclusive & harmonious space designed for an unparalleled experience at Nakaramguda, Gachibowli",
+    "bedroom": "3 & 4 BHK",
+    "tower": "4 Tower - G+45 Floors",
+    "area": "62 Acres",
+    "money": "Price On Request",
+    "location_keyword": [
+      "Gachibowli,Kokapet,Neopolis,Financial Dist,Hyderabad"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Auro Realty Kohinoor",
+    "developed_by": "Auro Realty",
+    "project_type": "Residential",
+    "location": "Hitech City, Hyderabad",
+    "description": "3 & 4 BHK Apartment in Hitech City Experience Comfort With a touch of Glamour",
+    "bedroom": "3 & 4 BHK, Flats",
+    "tower": "7 Tower - 42 Floors",
+    "area": "12.03 Acres",
+    "money": "On Request",
+    "img": "assets/keyon_img/property_img/Aurobindo/Kohinoor/kohinoor-specification.jpg",
+    "status": "Trending Property",
+    "location_keyword": [
+      "Gachibowli,Hitech City,Madhapur,Kondapur,Kukkatpally,Hyderabad"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Auro Realty The Pearl",
+    "developed_by": "Auro Realty",
+    "project_type": "Residential",
+    "location": "Hitech City, Hyderabad",
+    "description": "Exclusive 4 BHK Ultra Luxury Apartment in Hitech City Single Floor Single Sky-Mansion",
+    "Sizes": "5300 sq. ft. & 5400 sq. ft.",
+    "bedroom": "4 BHK",
+    "tower": "7 Tower - 33 Floors",
+    "area": "08.54 Acres",
+    "money": "On Request",
+    "img": "assets/keyon_img/property_img/Aurobindo/ThePearl/desktop_banner.png",
+    "status": "Trending Property",
+    "location_keyword": [
+      "Gachibowli,Hitech City,Madhapur,Kondapur,Kukkatpally,Hyderabad"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Prestige Beverly Hills",
+    "developed_by": "Prestige Group",
+    "project_type": "Residential",
+    "location": "Neopolis, Kokapet",
+    "description": "Prestige Clairemont is located in Neopolis, a newly established, futuristic, 500+ acre layout in Kokapet, which extends from the financial district.",
+    "bedroom": "3 & 4 BHK, Flats",
+    "tower": "3 Tower - 39 Floors",
+    "area": "5.85 Acres",
+    "money": "On Request",
+    "img": "assets/keyon_img/property_img/beverlyhills/gal5.webp",
+    "status": "Trending Property",
+    "location_keyword": [
+      "Gachibowli,Kokapet,Neopolis,Financial Dist,Hyderabad"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "DSR The Twins",
+    "developed_by": "DSR Builders & Developers",
+    "project_type": "Residential",
+    "location": "Financial District, Hyderabad",
+    "description": "DSR The Twins -Highrise LuxuryApartments @Gachibowli",
+    "bedroom": "5 BHK Flats",
+    "tower": "2 Tower - 44 Floors",
+    "area": "3 Acres",
+    "money": "Starts From ₹ 16 Crores* Onwards",
+    "img": "assets/keyon_img/property_img/DSR_Twins/4.jpg",
+    "status": "Trending Property",
+    "location_keyword": [
+      "Gachibowli,Kokapet,Neopolis,Financial Dist,Hyderabad"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Prestige Clairemont",
+    "developed_by": "Prestige Group",
+    "project_type": "Residential",
+    "location": "Neopolis, Kokapet",
+    "description": "Prestige Clairemont is located in Neopolis, a newly established, futuristic, 500+ acre layout in Kokapet, which extends from the financial district.",
+    "bedroom": "3 & 4 BHK, Flats",
+    "tower": "6 Tower - 39 Floors",
+    "area": "7.56 Acres",
+    "money": "On Request",
+    "img": "assets/keyon_img/property_img/Prestige/gal4.webp",
+    "status": "Trending Property",
+    "location_keyword": [
+      "Gachibowli,Kokapet,Neopolis,Financial Dist,Hyderabad"
+    ]
+  },
+  {
+    "id": "9",
+    "img": "assets/keyon_img/property_img/ghr_cascade/prop3.jpeg",
+    "status": "Hot Selling",
+    "name": "The Cascades",
+    "location": "Neopolis, Kokapet",
+    "description": "The Cascades - Life Appreciates Here",
+    "bedroom": "3, 4, & 5 BHK Flats",
+    "tower": "5 Tower - G+62 Floors",
+    "area": "73 Acres",
+    "money": "Starts From ₹ 10,000 PSF",
+    "location_keyword": [
+      "Gachibowli,Kokapet,Neopolis,Financial Dist,Hyderabad"
+    ]
+  }
+]

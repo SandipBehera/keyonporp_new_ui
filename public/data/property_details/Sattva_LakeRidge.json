@@ -1,0 +1,212 @@
+{
+  "project_name": "Sattva LakeRidge",
+  "developed_by": "Sattva Group",
+  "project_type": "Residential",
+  "location": "Neopolis, Kokapet",
+  "description": "Sattva Lakeridge - Ultra premium residencies facing the panoramic views of Osman Sagar and Kokapet Lake meet the lavishness of Neopolis Hyderabad.",
+  "bedroom": "3, 4, & 5 BHK Flats",
+  "tower": "6 Tower - G+37 Floors",
+  "area": "9.5 Acres",
+  "money": "Starts From ₹ 11,200 PSF",
+  "project_description": [
+    {
+      "description": "Sattva LakeRidge is a fine example of the Group’s outstanding designs and features. The project offers 6 magnificent towers with cutting edge amenities at every level. The exclusive ‘Fern tower offers just 2 ultra-spacious apartments per floor and a private elevator for the last word in comfort and convenience."
+    },
+    {
+      "description": "Welcome to a higher dimension of luxury at Neopolis, Hyderabad. Designed by the best minds in the industry, the 6 marvelous towers at Sattva LakeRidge complement your mindset like nothing else."
+    },
+    {
+      "description": "Take lakeside walks when you’re not taking swift drives to everyday victory. Have the sun, the moon, and the stars perform a magical opera for you. Imbibe the calmness of a picturesque lake in all your conquests. Find more time to cherish this opulence. Make the most of this convergence. Make your peers envious. Indeed, have no peers."
+    },
+    {
+      "description": "Sattva Lakeridge - Ultra premium residencies facing the panoramic views of Osman Sagar and Kokapet Lake meet the lavishness of Neopolis Hyderabad."
+    },
+    {
+      "description": "Sattva Lakeridge step into a realm of timeless luxury at Neopolis, Hyderabad, where Sattva LakeRidge stands as an emblem of the Group's architectural brilliance and innovation. A masterpiece that transcends time, this project embodies the perfect fusion of exceptional design and cutting-edge features that redefine opulent living."
+    },
+    {
+      "description": "Sattva Lakeridge comprising 6 magnificent towers that punctuate the skyline, Sattva LakeRidge isn't just a residential complex; it's a testament to a lifestyle that's beyond ordinary. Each tower is a testament to the Sattva Group's commitment to delivering excellence, with amenities that set new benchmarks at every level."
+    },
+    {
+      "description": "Sattva Lakeridge Picture lakeside strolls on tranquil mornings and swift drives to achieve your daily victories. Sattva Lakeridge imagine being serenaded by the sun, the moon, and the stars as they perform a symphony of nature's grandeur exclusively for you. Sattva Lakeridge the picturesque lake becomes not just a view but a serene companion in your journey of conquests."
+    }
+  ],
+  "gallery": {
+    "prop_images": [
+      {
+        "title": "lakerige 1",
+        "src": "assets/keyon_img/property_img/sattva/Lake-Ridge-banner-2.webp"
+      },
+      {
+        "title": "lakerige 2",
+        "src": "assets/keyon_img/property_img/sattva/Semi-Aerial_Eminence_1-scaled.webp"
+      },
+      {
+        "title": "lakerige 1",
+        "src": "assets/keyon_img/property_img/sattva/gallery1.webp"
+      },
+      {
+        "title": "lakerige 2",
+        "src": "assets/keyon_img/property_img/sattva/gallery2.webp"
+      },
+      {
+        "title": "lakerige 1",
+        "src": "assets/keyon_img/property_img/sattva/gallery3.webp"
+      },
+      {
+        "title": "lakerige 2",
+        "src": "assets/keyon_img/property_img/sattva/gallery4.webp"
+      },
+      {
+        "title": "lakerige 1",
+        "src": "assets/keyon_img/property_img/sattva/gallery5.webp"
+      },
+      {
+        "title": "lakerige 2",
+        "src": "assets/keyon_img/property_img/sattva/gallery6.webp"
+      },
+      {
+        "title": "lakerige 1",
+        "src": "assets/keyon_img/property_img/sattva/gallery7.webp"
+      },
+      {
+        "title": "lakerige 2",
+        "src": "assets/keyon_img/property_img/sattva/gallery8.webp"
+      },
+      {
+        "title": "lakerige 1",
+        "src": "assets/keyon_img/property_img/sattva/gallery9.webp"
+      },
+      {
+        "title": "lakerige 2",
+        "src": "assets/keyon_img/property_img/sattva/gallery10.webp"
+      },
+      {
+        "title": "lakerige 1",
+        "src": "assets/keyon_img/property_img/sattva/gallery11.webp"
+      },
+      {
+        "title": "lakerige 2",
+        "src": "assets/keyon_img/property_img/sattva/gallery12.webp"
+      }
+    ],
+    "floor_plan": [
+      {
+        "title": "lakerige floor 1",
+        "src": "assets/keyon_img/property_img/sattva/floorplan1.webp"
+      },
+      {
+        "title": "lakerige floor 2",
+        "src": "assets/keyon_img/property_img/sattva/floorplan2.webp"
+      },
+      {
+        "title": "lakerige floor 3",
+        "src": "assets/keyon_img/property_img/sattva/floorplan3.webp"
+      },
+      {
+        "title": "lakerige floor 4",
+        "src": "assets/keyon_img/property_img/sattva/floorplan4.webp"
+      },
+      {
+        "title": "lakerige floor 5",
+        "src": "assets/keyon_img/property_img/sattva/floorplan5.webp"
+      },
+      {
+        "title": "lakerige floor 6",
+        "src": "assets/keyon_img/property_img/sattva/floorplan6.webp"
+      }
+    ],
+    "master_plan": [
+      {
+        "title": "lakerige master plan",
+        "src": "assets/keyon_img/property_img/sattva/Master-Plan-1-768x813.jpg"
+      }
+    ]
+  },
+  "amenities": {
+    "amenities": [
+      {
+        "title": "Survilliance Camera",
+        "src": "fa-video"
+      },
+      {
+        "title": "LIBRARY",
+        "src": "fa-book"
+      },
+      {
+        "title": "SWIMMING POOL",
+        "src": "fa-water-ladder"
+      },
+      {
+        "title": "GYM",
+        "src": "fa-dumbbell"
+      },
+      {
+        "title": "PHARMACY",
+        "src": "fa-prescription"
+      },
+      {
+        "title": "JOGGING TRACK",
+        "src": "fa-person-running"
+      },
+      {
+        "title": "COMMUNITY HALL",
+        "src": "fa-group-arrows-rotate"
+      },
+      {
+        "title": "BANQUET HALL",
+        "src": "fa-shop"
+      },
+      {
+        "title": "OUTDOOR GAMES",
+        "src": "fa-futbol"
+      },
+      {
+        "title": "UTILITY SHOP",
+        "src": "fa-gears"
+      },
+      {
+        "title": "GARDEN",
+        "src": "fa-tree-city"
+      },
+      {
+        "title": "kids Play area",
+        "src": "fa-children"
+      }
+    ]
+  },
+  "project_location": {
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15228.708528544617!2d78.311755!3d17.403285!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x49c181bb18e753b%3A0xd09ba04549535a5f!2sSattva%20Lakeridge%20Neopolis!5e0!3m2!1sen!2sin!4v1712923694269!5m2!1sen!2sin"
+  },
+  "nearby_projects": [
+    {
+      "id": 1,
+      "img": "assets/keyon_img/property_img/palazzo/POULOMI_PALAZZO_EXT_02CLIENT.jpg",
+      "status": "Trending Property",
+      "name": "Poulomi Palazzo",
+      "location": "Kokapet,Hyderabad",
+      "description": "55 STORIES OF LUXURY-The crux of luxury living is impeccable planning, so your home and surroundings imbibe a smooth flow and easy living. Immaculate planning translates to a seamless home, holds the best influx of light and air, and is the perfect canvas to create a home to your taste.",
+      "bedroom": "4 BHK",
+      "tower": "3 Tower - G+55 Floors",
+      "area": "4.6 Acres",
+      "money": "4 BHK Starts From ₹ 7.47cr"
+    },
+    {
+      "id": 4,
+      "img": "assets/keyon_img/property_img/marina/western-marina-bottom-view.webp",
+      "status": "Trending Property",
+      "name": "Western Marina",
+      "location": "Financial District, Hyderabad",
+      "description": "Nature-Infused Urban Living at Nanakramguda, Gachibowli.Unmatched Grandeur with modern minimalism, resulting in an exclusive & harmonious space designed for an unparalleled experience at Nakaramguda, Gachibowli",
+      "bedroom": "4 BHK",
+      "tower": "4 Tower - G+45 Floors",
+      "area": "7.75 Acres",
+      "money": "4 BHK Starts From ₹ 6.75cr*"
+    }
+  ],
+  "SEO":{
+    "title":"Sattva Lakeridge - 4 BHK Residences in Neopolis Kokapet, Hyderabad",
+    "description":"Sattva Lakeridge in Neopolis is the new Luxury High-rise residential Apartment project launched in Kokapet, near Outer Ring Road, Hyderabad.",
+    "keywords":"Sattva Lakeridge at Neopolis in Kokapet, Hyderabad Details | Reviews | Price | Floor Plan | Photos | Master Plan | Brochure | Amenities | Location"
+  }
+}

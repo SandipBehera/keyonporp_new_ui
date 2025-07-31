@@ -1,0 +1,25 @@
+.mobile-hide{
+    display: block;
+}
+
+@media screen and (max-width: 768px){
+    .mobile-hide{
+        display: none !important;
+    }   
+}
+
+.mobile-banner{
+    display: none !important;
+}
+.desktop-show{
+    display: flex !important;
+}
+@media screen and (max-width: 768px){
+    .mobile-banner{
+        display: block !important;
+        padding: 0 !important;
+    }  
+    .desktop-show{
+        display: none !important;
+    } 
+}

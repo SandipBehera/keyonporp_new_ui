@@ -1,0 +1,184 @@
+{
+    "project_name": "Auro Realty ThePearl",
+    "developed_by": "Auro Realty",
+    "project_type": "Residential",
+    "location": "Hitech City, Hyderabad",
+    "description": "Exclusive 4 BHK Ultra Luxury Apartment in Hitech City Single Floor Single Sky-Mansion",
+    "Sizes": "5300 sq. ft. & 5400 sq. ft.",
+    "bedroom": "4 BHK",
+    "tower": "7 Tower - 33 Floors",
+    "area": "08.54 Acres",
+    "money": "On Request",
+    "project_description": [
+      {
+        "description": "The Pearl by Auro Realty isn't just another residential project; it's a vision crafted to redefine Hyderabad's realty landscape. With meticulous attention to detail and a commitment to excellence, The Pearl sets a new standard for luxury living in the city."
+      },
+      {
+        "description": "As an iconic milestone in Hyderabad's skyline, The Pearl boasts 414 stunning 4 BHK apartments with home offices, representing the epitome of modern luxury. Each residence is a testament to the perfect blend of serenity and elegance, offering residents a lifestyle that surpasses even the most superior benchmarks."
+      },
+      {
+        "description": "Magical Lifestyles Await: Step into The Pearl and embark on a journey of magical lifestyles, where grand environs, stunning designs, and uber-sophisticated amenities await. From the moment you arrive, you'll be enveloped in an atmosphere of opulence and refinement, where every detail is crafted to perfection."
+      },
+      {
+        "description": "Sky Mansions in the Clouds: Spread across 8.54 acres, The Pearl features 414 sky mansions that redefine luxury living. Each residence boasts a private balcony for every room, offering breathtaking views of the surrounding landscape and allowing residents to experience the beauty of nature from the comfort of their own home."
+      },
+      {
+        "description": "Clubhouse of Unparalleled Luxury: Spanning an impressive 62,000 square feet, The Pearl's clubhouse is a true haven of luxury and relaxation. From state-of-the-art fitness facilities to serene spa retreats, every amenity is designed to cater to the diverse needs of residents and enhance their overall living experience."
+      },
+      {
+        "description": "Dedicated to Serenity: At The Pearl, every sky mansion is accompanied by a dedicated landscaped balcony, providing residents with their own private oasis amidst the hustle and bustle of city life. Here, you can unwind and reconnect with nature, surrounded by lush greenery and tranquility."
+      },
+        {
+        "description": "Captivating Amenities: With over 65 captivating amenities, The Pearl offers residents a lifestyle beyond compare. Whether you're seeking leisurely pursuits or active adventures, you'll find everything you desire within the confines of this exceptional residential enclave."
+      }
+    ],
+    "gallery": {
+      "prop_images": [
+        {
+          "title": "Auro Realty Pearl 1",
+          "src": "assets/keyon_img/property_img/Aurobindo/ThePearl/PEARL_WEB-BANNERS_v2_Artboard-2-copy-5.jpg"
+        },
+        {
+          "title": "Auro Realty Pearl 2",
+          "src": "assets/keyon_img/property_img/Aurobindo/ThePearl/5.png"
+        },
+        {
+          "title": "Auro Realty Pearl 1",
+          "src": "assets/keyon_img/property_img/Aurobindo/ThePearl/4.png"
+        },
+        {
+          "title": "Auro Realty Pearl 2",
+          "src": "assets/keyon_img/property_img/Aurobindo/ThePearl/the-pearl-1-1.jpg"
+        },
+        {
+          "title": "Auro Realty Pearl 1",
+          "src": "assets/keyon_img/property_img/Aurobindo/ThePearl/1.png"
+        },
+        {
+          "title": "Auro Realty Pearl 2",
+          "src": "assets/keyon_img/property_img/Aurobindo/ThePearl/6.png"
+        },
+        {
+          "title": "Auro Realty Pearl 1",
+          "src": "assets/keyon_img/property_img/Aurobindo/ThePearl/overview_img.webp"
+        }
+      ],
+      "floor_plan": [
+        {
+          "title": "Auro Realty Pearl floor 1",
+          "src": "assets/keyon_img/property_img/Aurobindo/ThePearl/floor1.png"
+        },
+  
+        {
+          "title": "Auro Realty Pearl floor 2",
+          "src": "assets/keyon_img/property_img/Aurobindo/ThePearl/floor2.png"
+        }
+      ],
+     
+      "master_plan": [
+        {
+          "title": "Auro Realty Pearl master plan",
+          "src": "assets/keyon_img/property_img/Aurobindo/ThePearl/The-Pearl-plans_page-0001.jpg"
+        }
+      ]
+    },
+    "amenities": {
+      "amenities": [
+        {
+          "title": "Reception desk and lounge.",
+          "src": "fa-video"
+        },
+        {
+          "title": " Library With Lounge",
+          "src": "fa-book"
+        },
+        {
+          "title": " Swimming Pool",
+          "src": "fa-water-ladder"
+        },
+        {
+          "title": "Gym",
+          "src": "fa-dumbbell"
+        },
+        {
+          "title": "Pharmacy",
+          "src": "fa-prescription"
+        },
+        {
+          "title": "Jogging Track",
+          "src": "fa-person-running"
+        },
+        {
+          "title": "Community Hall",
+          "src": "fa-group-arrows-rotate"
+        },
+        {
+          "title": "Banquet Hall",
+          "src": "fa-shop"
+        },
+        {
+          "title": "Ootdoor & Indoor Games",
+          "src": "fa-futbol"
+        },
+        {
+          "title": "Utility Shop",
+          "src": "fa-gears"
+        },
+        {
+          "title": "Garden",
+          "src": "fa-tree-city"
+        },
+        {
+          "title": "kids Play area",
+          "src": "fa-children"
+        }
+      ]
+    },
+    "project_location": {
+      "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7611.749956153369!2d78.385131!3d17.465697!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93d570b7fa6f%3A0xd9b0f03c3ed4724d!2sThe%20Pearl%20by%20Auro%20Realty%2C%20Hyderabad%20(Formerly%20Aurobindo%20Realty)!5e0!3m2!1sen!2sin!4v1715075211666!5m2!1sen!2sin"
+    },
+    "nearby_projects": [
+      {
+        "id": 2,
+        "img": "assets/keyon_img/property_img/sattva/Semi-Aerial_Eminence_1-scaled.webp",
+        "status": "Trending Property",
+        "name": "Sattva Lakeridge",
+        "location": "Neopolis,Kokapet",
+        "description": "Welcome to a higher dimension of luxury at Neopolis, Hyderabad. Designed by the best minds in the industry, the 6 marvelous towers at Sattva LakeRidge complement your mindset like nothing else.",
+        "bedroom": "3, 4 & 5 BHK",
+        "tower": "6 Tower - G+37 Floors",
+        "area": "9.5 Acres",
+        "money": "Price Starts From ₹ 3.75cr*"
+      },
+       {
+        "id": 3,
+        "img": "assets/keyon_img/property_img/palazzo/POULOMI_PALAZZO_EXT_02CLIENT.jpg",
+        "status": "Trending Property",
+        "name": "Poulomi Palazzo",
+        "location": "Kokapet,Hyderabad",
+        "description": "55 STORIES OF LUXURY-The crux of luxury living is impeccable planning, so your home and surroundings imbibe a smooth flow and easy living. Immaculate planning translates to a seamless home, holds the best influx of light and air, and is the perfect canvas to create a home to your taste.",
+        "bedroom": "4 BHK",
+        "tower": "3 Tower - G+55 Floors",
+        "area": "4.6 Acres",
+        "money": "4 BHK Starts From ₹ 7.47cr*"
+      },
+      {
+        "id": 4,
+        "img": "assets/keyon_img/property_img/marina/western-marina-bottom-view.webp",
+        "status": "Trending Property",
+        "name": "Western Marina",
+        "location": "Financial District, Hyderabad",
+        "description": "Nature-Infused Urban Living at Nanakramguda, Gachibowli.Unmatched Grandeur with modern minimalism, resulting in an exclusive & harmonious space designed for an unparalleled experience at Nakaramguda, Gachibowli",
+        "bedroom": "4 BHK",
+        "tower": "4 Tower - G+45 Floors",
+        "area": "7.75 Acres",
+        "money": "4 BHK Starts From ₹ 6.75cr*"
+      }
+    ],
+    "SEO":{
+      "title":"The Pearl by Auro Realty-4 BHK Sky Mansions in HITEC City   || Keyon Properties",
+      "description":"The Pearl by Auro Realty offers 4 BHK Sky Mansions in HITEC city Hyderabad. Experience magical lifestyles, grand environs, stunning designs, and uber-luxurious amenities.",
+      "keywords":" The Pearl by Auro Realty, 3 BHK luxury Apartments in Hyderabad, 4 BHK Flats in Hyderabad, 3 BHK Flats in Hitech City Hyderabad "
+    }
+  }
+  

@@ -1,0 +1,228 @@
+{
+    "project_name": "Poulomi Palazzo",
+    "developed_by": "Poulomi Estates",
+    "project_type": "Residential",
+    "location": "Golden Mile Road, Kokapet",
+    "description": "Poulomi Palazzo - 55 Stories of Luxury",
+    "bedroom": "4 BHK, Flats",
+    "tower": "3 Tower - G+55 Floors",
+    "area": "4.6 Acres",
+    "money": "On Request",
+    "project_description": [
+      {
+        "description": "Poulomi Palazzo - 55 Stories of Luxury Experience Luxury - Every Day at Poulomi Palazzo. Home can now be synonymous with the high life. Every time you enter Poulomi Palazzo, you know that you are living your best life."
+  
+      },
+      {
+        "description": "The Infinity Pool, 52 stories high, makes for a breathtaking experience every time you take a dip.Calming yet invigorating, water always has a splendid effect on the mind, body, and soul."
+      },
+      {
+        "description": "The Poulomi Palazzo’s five floor Lobby is but a hint of the extravagance this property holds. The Lobby space makes a striking first impression, and its Grandeur sets the luxurious tone of the property."
+      },
+      {
+        "description": "Defined lifestyle needs with innovative twist like guest rooms that overlook the financial district, Private BBQ pits, chef on demand open kitchen, multi cuisine restaurants for your hospitality needs and more. These are sure to add star class ambience for your celebrations."
+      },
+      {
+        "description": "Rejoice in the state of art Business services complete with conference room, consultation rooms, waiting rooms, library &amp; Business Lounge."
+      },
+      {
+        "description": "Flaunt your defining lifestyle with features including sun deck, rooftop lawn, open air Jacuzzi, aroma garden, climbing boulder, yoga gardens and more."
+      },
+      {
+        "description": "Relax and rejuvenate with state of art spa, Olympic size pool, entertainment & games room, mini mart"
+      }
+    ],
+    "gallery": {
+      "prop_images": [
+        {
+          "title": "Poulomi Palazzo 1",
+          "src": "assets/keyon_img/property_img/palazzo/master_banner.jpg"
+        },
+        {
+          "title": "Poulomi Palazzo 2",
+          "src": "assets/keyon_img/property_img/palazzo/4.jpg"
+        },
+        {
+          "title": "Poulomi Palazzo 1",
+          "src": "assets/keyon_img/property_img/palazzo/16.webp"
+        },
+        {
+          "title": "Poulomi Palazzo 2",
+          "src": "assets/keyon_img/property_img/palazzo/1.webp"
+        },
+        {
+          "title": "Poulomi Palazzo 1",
+          "src": "assets/keyon_img/property_img/palazzo/2.webp"
+        },
+        {
+          "title": "Poulomi Palazzo 2",
+          "src": "assets/keyon_img/property_img/palazzo/3.webp"
+        },
+        {
+          "title": "Poulomi Palazzo 1",
+          "src": "assets/keyon_img/property_img/palazzo/5.webp"
+        },
+        {
+          "title": "Poulomi Palazzo 2",
+          "src": "assets/keyon_img/property_img/palazzo/6.webp"
+        },
+        {
+          "title": "Poulomi Palazzo 1",
+          "src": "assets/keyon_img/property_img/palazzo/7.webp"
+        },
+        {
+          "title": "Poulomi Palazzo 2",
+          "src": "assets/keyon_img/property_img/palazzo/8.webp"
+        },
+        {
+          "title": "Poulomi Palazzo 1",
+          "src": "assets/keyon_img/property_img/palazzo/9.webp"
+        },
+        {
+          "title": "Poulomi Palazzo 2",
+          "src": "assets/keyon_img/property_img/palazzo/10.webp"
+        },
+        {
+          "title": "Poulomi Palazzo 1",
+          "src": "assets/keyon_img/property_img/palazzo/11.webp"
+        },
+        {
+          "title": "Poulomi Palazzo 2",
+          "src": "assets/keyon_img/property_img/palazzo/15.webp"
+        }
+      ],
+      "floor_plan": [
+        {
+          "title": "Poulomi Palazzo floor 1",
+          "src": "assets/keyon_img/property_img/palazzo/FLOOR_PLAN_NORTH_DECK.webp"
+        },
+  
+        {
+          "title": "Poulomi Palazzo floor 2",
+          "src": "assets/keyon_img/property_img/palazzo/FLOOR_PLAN_SOUTH_DECK.webp"
+        },
+        {
+          "title": "Poulomi Palazzo floor 3",
+          "src": "assets/keyon_img/property_img/palazzo/FLOOR_PLAN-TOWER_3-NORTH_DECK_LAYOUT.webp"
+        },
+        {
+            "title": "Poulomi Palazzo floor 3",
+            "src": "assets/keyon_img/property_img/palazzo/flp1.webp"
+          },
+          {
+            "title": "Poulomi Palazzo floor 3",
+            "src": "assets/keyon_img/property_img/palazzo/flp2.webp"
+          },
+          {
+            "title": "Poulomi Palazzo floor 3",
+            "src": "assets/keyon_img/property_img/palazzo/flp3.webp"
+          }
+      ],
+     
+      "master_plan": [
+        {
+          "title": "Poulomi Palazzo master plan",
+          "src": "assets/keyon_img/property_img/palazzo/SITE_PLAN.jpg"
+        }
+      ]
+    },
+    "amenities": {
+      "amenities": [
+        {
+          "title": "Reception desk and lounge.",
+          "src": "fa-video"
+        },
+        {
+          "title": " Library With Lounge",
+          "src": "fa-book"
+        },
+        {
+          "title": " Swimming Pool",
+          "src": "fa-water-ladder"
+        },
+        {
+          "title": "Gym",
+          "src": "fa-dumbbell"
+        },
+        {
+          "title": "Pharmacy",
+          "src": "fa-prescription"
+        },
+        {
+          "title": "Jogging Track",
+          "src": "fa-person-running"
+        },
+        {
+          "title": "Community Hall",
+          "src": "fa-group-arrows-rotate"
+        },
+        {
+          "title": "Banquet Hall",
+          "src": "fa-shop"
+        },
+        {
+          "title": "Ootdoor & Indoor Games",
+          "src": "fa-futbol"
+        },
+        {
+          "title": "Utility Shop",
+          "src": "fa-gears"
+        },
+        {
+          "title": "Garden",
+          "src": "fa-tree-city"
+        },
+        {
+          "title": "kids Play area",
+          "src": "fa-children"
+        }
+      ]
+    },
+    "project_location": {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.1796209836643!2d78.33443627515538!3d17.403165502350365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb95bfed9be53b%3A0xc0020f0a48be50ff!2sPOULOMI%20PALAZZO!5e0!3m2!1sen!2sin!4v1714655285800!5m2!1sen!2sin"
+    },
+    "nearby_projects": [
+      {
+        "id": 2,
+        "img": "assets/keyon_img/property_img/sattva/Lake-Ridge-banner-2.webp",
+        "status": "Trending Property",
+        "name": "Sattva Lakeridge",
+        "location": "Neopolis,Kokapet",
+        "description": "Welcome to a higher dimension of luxury at Neopolis, Hyderabad. Designed by the best minds in the industry, the 6 marvelous towers at Sattva LakeRidge complement your mindset like nothing else.",
+        "bedroom": "3, 4 & 5 BHK",
+        "tower": "6 Tower - G+37 Floors",
+        "area": "9.5 Acres",
+        "money": "Price Starts From ₹ 3.75cr*"
+      },
+       {
+        "id": 3,
+        "img": "assets/keyon_img/property_img/sascrown/sas-l-g4.jpg",
+        "status": "Trending Property",
+        "name": "SAS Crown",
+        "location": "Kokapet,Hyderabad",
+        "description": "SAS Crown luxury is a notch higher. This G+57 floors sky high structure, with 82% open to sky space, is spread across 4.5 acres of pristine green surroundings with homes in 3 different sizes.",
+        "bedroom": "4 BHK",
+        "tower": "5 Tower - G+57 Floors",
+        "area": "4.5 Acres",
+        "money": "4 BHK Starts From ₹ 7.47cr*"
+      },
+      {
+        "id": 4,
+        "img": "assets/keyon_img/property_img/marina/western-marina-bottom-view.webp",
+        "status": "Trending Property",
+        "name": "Western Marina",
+        "location": "Financial District, Hyderabad",
+        "description": "Nature-Infused Urban Living at Nanakramguda, Gachibowli.Unmatched Grandeur with modern minimalism, resulting in an exclusive & harmonious space designed for an unparalleled experience at Nakaramguda, Gachibowli",
+        "bedroom": "4 BHK",
+        "tower": "4 Tower - G+45 Floors",
+        "area": "7.75 Acres",
+        "money": "4 BHK Starts From ₹ 6.75cr*"
+      }
+    ],
+    "SEO":{
+        "title":"POULOMI PALAZZO – 55 STORIES OF LUXURY || Keyon Properties",
+        "description":"poulomi Palazzo - 55 Stories of Luxury Experience Luxury - Every Day at Poulomi Palazzo. Home can now be synonymous with the high life. Every time you enter Poulomi Palazzo, you know that you are living your best life.",
+        "keywords":"POULOMI PALAZZO, highest sky scrapper in hyderabad"
+      }
+  }
+  

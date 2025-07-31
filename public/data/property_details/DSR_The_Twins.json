@@ -1,0 +1,194 @@
+{
+    "project_name": "DSR The Twins",
+    "developed_by": "DSR Builders & Developers",
+    "project_type": "Residential",
+    "location": "Financial District, Hyderabad",
+    "description": "DSR The Twins - Highrise LuxuryApartments @Gachibowli",
+    "bedroom": "5 BHK Flats",
+    "tower": "2 Tower - 44 Floors",
+    "area": "3 Acres",
+    "money": "Starts From ₹ 16 Crores* Onwards",
+    "rera_id":"P02400004592",
+    "project_description": [
+      {
+        "description": "Experience unparalleled luxury at 'The Twins by DSR', where opulence knows no bounds. Discover India's largest residential apartments, with an impressive 15,999 square feet on every floor, setting a new standard in spacious living."
+      },
+      {
+        "description": "The Twins by DSR Hyderabad's first residential project with 13 feet floor height, indulge in a sense of grandeur and space unlike any other."
+      },
+      {
+        "description": "The Twins by DSR Spanning across 3 acres, with 4 basements and 44 floors in each tower, 'The Twins' offers a total of 85 units across 2 towering structures."
+      },
+      {
+        "description": "Experience the privilege of residing at Twins, where luxury reaches its pinnacle. Our residences are the hallmark of opulence, offering a lifestyle like no other. Step into contemporary interiors meticulously designed to cater to your every need. Indulge in the essence of luxury living at Twins."
+      },
+      {
+        "description": "Introducing South India's first residential project with a distinctive glass facade. Elevate your living experience with unparalleled sophistication and modern design. Be part of a groundbreaking architectural marvel at Twins."
+      },
+      {
+        "description": "Embark on a new era of luxury living at Twins, Hyderabad's premier residential project boasting state-of-the-art amenities. Experience convenience like never before with central vacuum and pest control facilities integrated seamlessly into every aspect of your home. Discover the epitome of modern living at Twins."
+      },
+      {
+        "description": "Indulge in luxury like never before with amenities spanning across a multi-level clubhouse at Twins. Elevate your lifestyle with exclusive facilities designed to cater to your every need. Experience the epitome of opulence at every level."
+      }
+    ],
+    "gallery": {
+      "prop_images": [
+        {
+          "title": "The Twins 1",
+          "src": "assets/keyon_img/property_img/DSR_Twins/2.jpg"
+        },
+        {
+          "title": "The Twins 2",
+          "src": "assets/keyon_img/property_img/DSR_Twins/5.jpg"
+        },
+        {
+          "title": "The Twins 1",
+          "src": "assets/keyon_img/property_img/DSR_Twins/7.jpg"
+        },
+        {
+          "title": "The Twins 2",
+          "src": "assets/keyon_img/property_img/DSR_Twins/2.jpg"
+        },
+        {
+          "title": "The Twins 1",
+          "src": "assets/keyon_img/property_img/DSR_Twins/3.jpg"
+        },
+        {
+          "title": "The Twins 2",
+          "src": "assets/keyon_img/property_img/DSR_Twins/4.jpg"
+        },
+        {
+          "title": "The Twins 1",
+          "src": "assets/keyon_img/property_img/DSR_Twins/5.jpg"
+        },
+        {
+          "title": "The Twins 2",
+          "src": "assets/keyon_img/property_img/DSR_Twins/6.jpg"
+        },
+        {
+          "title": "The Twins 1",
+          "src": "assets/keyon_img/property_img/DSR_Twins/7.jpg"
+        },
+        {
+          "title": "The Twins 2",
+          "src": "assets/keyon_img/property_img/DSR_Twins/twins-building-3.jpg"
+        },
+        {
+          "title": "The Twins 1",
+          "src": "assets/keyon_img/property_img/DSR_Twins/9.jpg"
+        },
+        {
+          "title": "The Twins 2",
+          "src": "assets/keyon_img/property_img/DSR_Twins/10.jpg"
+        },
+        {
+          "title": "The Twins 1",
+          "src": "assets/keyon_img/property_img/DSR_Twins/11.jpg"
+        },
+        {
+          "title": "The Twins 2",
+          "src": "assets/keyon_img/property_img/DSR_Twins/12.jpg"
+        }
+      ],
+      "floor_plan": [
+        {
+          "title": "The Twins floor 1",
+          "src": "assets/keyon_img/property_img/DSR_Twins/15.jpg"
+        }
+      ],
+      "master_plan": [
+        {
+          "title": "The Twins master plan",
+          "src": "assets/keyon_img/property_img/DSR_Twins/14.jpg"
+        }
+      ]
+    },
+    "amenities": {
+      "amenities": [
+        {
+          "title": "Reception desk and lounge.",
+          "src": "fa-video"
+        },
+        {
+          "title": " Library With Lounge",
+          "src": "fa-book"
+        },
+        {
+          "title": " Infinity Pool",
+          "src": "fa-water-ladder"
+        },
+        {
+          "title": "Gym",
+          "src": "fa-dumbbell"
+        },
+        {
+          "title": "Pharmacy",
+          "src": "fa-prescription"
+        },
+        {
+          "title": "Jogging Track",
+          "src": "fa-person-running"
+        },
+        {
+          "title": "Community Hall",
+          "src": "fa-group-arrows-rotate"
+        },
+        {
+          "title": "Banquet Hall",
+          "src": "fa-shop"
+        },
+        {
+          "title": "Ootdoor & Indoor Games",
+          "src": "fa-futbol"
+        },
+        {
+          "title": "Utility Shop",
+          "src": "fa-gears"
+        },
+        {
+          "title": "Garden",
+          "src": "fa-tree-city"
+        },
+        {
+          "title": "kids Play area",
+          "src": "fa-children"
+        }
+      ]
+    },
+    "project_location": {
+      "location":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.156607953813!2d78.34990227515537!3d17.40427040231859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb956258081909%3A0xd4ac38ad74911a8f!2sDSR%20SSI%20Twins%20Towers!5e0!3m2!1sen!2sin!4v1715931917810!5m2!1sen!2sin"
+    },
+    "nearby_projects": [
+        {
+          "id": 1,
+          "img": "assets/keyon_img/property_img/palazzo/POULOMI_PALAZZO_EXT_02CLIENT.jpg",
+          "status": "Trending Property",
+          "name": "Poulomi Palazzo",
+          "location": "Kokapet,Hyderabad",
+          "description": "55 STORIES OF LUXURY-The crux of luxury living is impeccable planning, so your home and surroundings imbibe a smooth flow and easy living. Immaculate planning translates to a seamless home, holds the best influx of light and air, and is the perfect canvas to create a home to your taste.",
+          "bedroom": "4 BHK",
+          "tower": "3 Tower - G+55 Floors",
+          "area": "4.6 Acres",
+          "money": "4 BHK Starts From ₹ 7.47cr"
+        },
+        {
+          "id": 4,
+          "img": "assets/keyon_img/property_img/marina/western-marina-bottom-view.webp",
+          "status": "Trending Property",
+          "name": "Western Marina",
+          "location": "Financial District, Hyderabad",
+          "description": "Nature-Infused Urban Living at Nanakramguda, Gachibowli.Unmatched Grandeur with modern minimalism, resulting in an exclusive & harmonious space designed for an unparalleled experience at Nakaramguda, Gachibowli",
+          "bedroom": "4 BHK",
+          "tower": "4 Tower - G+45 Floors",
+          "area": "7.75 Acres",
+          "money": "4 BHK Starts From ₹ 6.75cr*"
+        }
+      ],
+      "SEO":{
+        "title":"DSR Twins| Highrise LuxuryApartments @Gachibowli, Hyderabad",
+        "description":"DSR Twins Enquire Now| 2 Tower | 85 Units | 15,999 Sft Unit Size BHK 5BHK | HT | Party Area | Private Lift | Home Office | Servant Room Status Under Construction Possession By August, 2026 Approved RERA No:",
+        "keywords":"dsr twins, dsr twins hyderabad, dsr twins financial district, dsr twins price, dsr twins brochure, dsr twins location, dsr twins rera, dsr twins amenities, dsr twins gallery, dsr twins floor plan, dsr twins master plan, dsr twins nearby projects, dsr twins trending projects, dsr twins 5 bhk flats, dsr twins 16 crores onwards, dsr twins 44 floors, dsr twins 3 acres, dsr twins 13 feet floor height, dsr twins 85 units, dsr twins 2 towers, dsr twins 15,999 square feet, dsr twins glass facade, dsr twins central vacuum, dsr twins pest control, dsr twins multi-level clubhouse, dsr twins luxury living, dsr twins modern design, dsr twins south india residential project, dsr twins 4 basements, dsr twins 44 floors, dsr twins 3 acres, dsr twins 85 units, dsr twins 2 towers, dsr twins 15,999 square feet, dsr twins glass facade, dsr twins central vacuum, dsr twins pest control, dsr twins multi-level clubhouse, dsr twins luxury living, dsr twins modern design, dsr twins south india residential project, dsr twins 4 basements, dsr twins 44 floors, dsr twins 3 acres, dsr twins 85 units, dsr twins 2 towers, dsr twins 15,999 square feet, dsr twins glass facade, dsr twins central vacuum, dsr twins pest control, dsr twins multi-level clubhouse, dsr twins luxury living, dsr twins modern design, dsr twins south india residential project, dsr twins 4 basements, dsr twins 44 floors, dsr twins 3 acres, dsr twins 85 units, dsr twins 2 towers, dsr twins 15,999 square feet, dsr twins glass facade, dsr twins central vacuum, dsr twins pest control, dsr twins multi-level clubhouse, dsr twins luxury living, dsr twins modern design, dsr twins south india residential project, dsr twins 4 basements, dsr twins 44 floors, dsr twins 3 acres, dsr twins 85 units, dsr twins 2 towers, dsr twins 15,999 square feet, dsr twins"
+      }
+  }
+  

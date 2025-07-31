@@ -1,0 +1,215 @@
+{
+    "project_name": "Prestige BeverlyHills",
+    "developed_by": "Prestige Group",
+    "project_type": "Residential",
+    "location": "Neopolis, Kokapet",
+    "description": "Prestige Clairemont is located in Neopolis, a newly established, futuristic, 500+ acre layout in Kokapet, which extends from the financial district.",
+    "bedroom": "3 & 4 BHK, Flats",
+    "tower": "3 Tower - 39 Floors",
+    "area": "5.85 Acres",
+    "money": "On Request",
+    "project_description": [
+      {
+        "description": "Prestige Beverly Hills, nestled in the prestigious enclave of Kokapet, offers a lifestyle synonymous with luxury and sophistication. It beckons residents to indulge in a lifestyle typically reserved for the elite."
+      },
+      {
+        "description": "Situated in Kokapet, one of Hyderabad's most sought-after neighborhoods, Prestige Beverly Hills provides residents with access to unparalleled convenience and luxury. This well-developed area boasts excellent infrastructure and serves as a magnet for the city's new elite."
+      },
+      {
+        "description": " Prestige Beverly Hills epitomizes accessible luxury, offering residents all the conveniences of modern living within reach. Located near the Outer Ring Road, the community provides easy access to the city center and the airport, ensuring seamless connectivity."
+      },
+      {
+        "description": "With its strategic location, Prestige Beverly Hills places residents just a 5-minute drive away from the bustling Financial District, a vital IT hub in Hyderabad. Additionally, the neighborhood boasts proximity to retail outlets, schools, and hospitals, catering to every need."
+      },
+      {
+        "description": "Ideal Work-Life Balance: For those seeking a perfect work-life balance, Prestige Beverly Hills offers the best of both worlds. Its proximity to the Financial District and other premium commercial hubs ensures that residents are never far from their workplace, allowing for more time to enjoy life's luxuries."
+      },
+      {
+        "description": "Educational Excellence Nearby: Families residing in Prestige Beverly Hills have access to premium educational institutions at all levels within a quick driving distance. Whether it's schools for children or higher education opportunities, residents can rest assured that quality education is within reach."
+      },
+      {
+        "description": "Prestige Beverly Hills stands as a symbol of prestige and refinement in Kokapet. Its blend of opulent living spaces, convenient location, and proximity to key amenities makes it the epitome of luxury living in Hyderabad."
+      }
+    ],
+    "gallery": {
+      "prop_images": [
+        {
+          "title": "Prestige Beverly Hills 1",
+          "src": "assets/keyon_img/property_img/beverlyhills/gal5.webp"
+        },
+        {
+          "title": "Prestige Beverly Hills 2",
+          "src": "assets/keyon_img/property_img/beverlyhills/gal6.webp"
+        },
+        {
+          "title": "Prestige Beverly Hills 1",
+          "src": "assets/keyon_img/property_img/beverlyhills/gal7.webp"
+        },
+        {
+          "title": "Prestige Beverly Hills 2",
+          "src": "assets/keyon_img/property_img/beverlyhills/gal1.webp"
+        },
+        {
+          "title": "Prestige Beverly Hills 1",
+          "src": "assets/keyon_img/property_img/beverlyhills/gal2.webp"
+        },
+        {
+          "title": "Prestige Beverly Hills 2",
+          "src": "assets/keyon_img/property_img/beverlyhills/gal3.webp"
+        },
+        {
+          "title": "Prestige Beverly Hillst 1",
+          "src": "assets/keyon_img/property_img/beverlyhills/gal4.webp"
+        },
+        {
+          "title": "Prestige Beverly Hills 2",
+          "src": "assets/keyon_img/property_img/beverlyhills/gal8.jpeg"
+        },
+        {
+          "title": "Prestige Beverly Hills 1",
+          "src": "assets/keyon_img/property_img/beverlyhills/gal9.jpeg"
+        },
+        {
+          "title": "Prestige Beverly Hills 2",
+          "src": "assets/keyon_img/property_img/beverlyhills/gal10.jpeg"
+        },
+        {
+          "title": "Prestige Beverly Hills 1",
+          "src": "assets/keyon_img/property_img/beverlyhills/gal11.jpeg"
+        }
+      ],
+      "floor_plan": [
+        {
+          "title": "Prestige Beverly Hills floor 1",
+          "src": "assets/keyon_img/property_img/beverlyhills/floor1.webp"
+        },
+  
+        {
+          "title": "Prestige Beverly Hills floor 2",
+          "src": "assets/keyon_img/property_img/beverlyhills/floor2.webp"
+        },
+        {
+          "title": "Prestige Beverly Hills floor 3",
+          "src": "assets/keyon_img/property_img/beverlyhills/floor3.webp"
+        },
+        {
+          "title": "Prestige Beverly Hills floor 4",
+          "src": "assets/keyon_img/property_img/beverlyhills/floor4.webp"
+        },
+        {
+          "title": "Prestige Beverly Hills floor 5",
+          "src": "assets/keyon_img/property_img/beverlyhills/floor5.webp"
+        },
+        {
+          "title": "Prestige Beverly Hills floor 6",
+          "src": "assets/keyon_img/property_img/beverlyhills/floor6.webp"
+        }
+      ],
+     
+      "master_plan": [
+        {
+          "title": "Prestige Beverly Hills master plan",
+          "src": "assets/keyon_img/property_img/beverlyhills/master.webp"
+        }
+      ]
+    },
+    "amenities": {
+      "amenities": [
+        {
+          "title": "Reception desk and lounge.",
+          "src": "fa-video"
+        },
+        {
+          "title": " Library With Lounge",
+          "src": "fa-book"
+        },
+        {
+          "title": " Swimming Pool",
+          "src": "fa-water-ladder"
+        },
+        {
+          "title": "Gym",
+          "src": "fa-dumbbell"
+        },
+        {
+          "title": "Pharmacy",
+          "src": "fa-prescription"
+        },
+        {
+          "title": "Jogging Track",
+          "src": "fa-person-running"
+        },
+        {
+          "title": "Community Hall",
+          "src": "fa-group-arrows-rotate"
+        },
+        {
+          "title": "Banquet Hall",
+          "src": "fa-shop"
+        },
+        {
+          "title": "Ootdoor & Indoor Games",
+          "src": "fa-futbol"
+        },
+        {
+          "title": "Utility Shop",
+          "src": "fa-gears"
+        },
+        {
+          "title": "Garden",
+          "src": "fa-tree-city"
+        },
+        {
+          "title": "kids Play area",
+          "src": "fa-children"
+        }
+      ]
+    },
+    "project_location": {
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.1977217394456!2d78.33559217515533!3d17.402296402375526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb95e65330470f%3A0x42a872b2713fb338!2sPrestige%20Beverly%20Hills!5e0!3m2!1sen!2sin!4v1715931031965!5m2!1sen!2sin"
+    },
+    "nearby_projects": [
+        {
+          "id": 2,
+          "img": "assets/keyon_img/property_img/sattva/Lake-Ridge-banner-2.webp",
+          "status": "Trending Property",
+          "name": "Sattva Lakeridge",
+          "location": "Neopolis,Kokapet",
+          "description": "Welcome to a higher dimension of luxury at Neopolis, Hyderabad. Designed by the best minds in the industry, the 6 marvelous towers at Sattva LakeRidge complement your mindset like nothing else.",
+          "bedroom": "3, 4 & 5 BHK",
+          "tower": "6 Tower - G+37 Floors",
+          "area": "9.5 Acres",
+          "money": "Price Starts From ₹ 3.75cr*"
+        },
+         {
+          "id": 3,
+          "img": "assets/keyon_img/property_img/sascrown/sas-l-g4.jpg",
+          "status": "Trending Property",
+          "name": "SAS Crown",
+          "location": "Kokapet,Hyderabad",
+          "description": "SAS Crown luxury is a notch higher. This G+57 floors sky high structure, with 82% open to sky space, is spread across 4.5 acres of pristine green surroundings with homes in 3 different sizes.",
+          "bedroom": "4 BHK",
+          "tower": "5 Tower - G+57 Floors",
+          "area": "4.5 Acres",
+          "money": "4 BHK Starts From ₹ 7.47cr*"
+        },
+        {
+          "id": 4,
+          "img": "assets/keyon_img/property_img/marina/western-marina-bottom-view.webp",
+          "status": "Trending Property",
+          "name": "Western Marina",
+          "location": "Financial District, Hyderabad",
+          "description": "Nature-Infused Urban Living at Nanakramguda, Gachibowli.Unmatched Grandeur with modern minimalism, resulting in an exclusive & harmonious space designed for an unparalleled experience at Nakaramguda, Gachibowli",
+          "bedroom": "4 BHK",
+          "tower": "4 Tower - G+45 Floors",
+          "area": "7.75 Acres",
+          "money": "4 BHK Starts From ₹ 6.75cr*"
+        }
+      ],
+      "SEO":{
+          "title":"Prestige Beverly Hills| 3/4 BHK Apartments Hyderabad | New Flats for Sale Hyderabad | Kokapet",
+          "description":"Prestige Beverly Hills - Buy 3 & 4 BHK Apartments with all Amenities in Kokapet, Hyderabad. Call Us Now for More Details. Click to Download the Brochure.",
+          "keywords":"prestigeconstructions,PrestigeBeverlyHills,projects in kokapet, property in hyderabad, prestige beverly hills kokapet, prestige beverly hills hyderabad, prestige beverly hills price, prestige beverly hills brochure, prestige beverly hills location, prestige beverly hills amenities, prestige beverly hills gallery, prestige beverly hills floor plan, prestige beverly hills master plan, prestige beverly hills nearby projects, prestige beverly hills project location, prestige beverly hills project description, prestige beverly hills project overview, prestige beverly hills project details, prestige beverly hills project amenities, prestige beverly hills project gallery, prestige beverly hills project floor plan, prestige beverly hills project master plan, prestige beverly hills project location map, prestige beverly hills project nearby projects, prestige beverly hills project seo, prestige beverly hills project seo title, prestige beverly hills project seo description, prestige beverly hills project seo keywords, prestige beverly hills project seo image, prestige beverly hills project seo og:title, prestige beverly hills project seo og:description, prestige beverly hills project seo og:image, prestige beverly hills project seo twitter:title, prestige beverly hills project seo twitter:description, prestige beverly hills project seo twitter:image, prestige beverly hills project seo twitter:card, prestige beverly hills project seo twitter:site, prestige beverly hills project seo twitter:creator, prestige beverly hills project seo twitter:url, prestige beverly hills project seo twitter:domain, prestige beverly hills project seo twitter:label1, prestige beverly hills project seo twitter:data1, prestige beverly hills project seo twitter:label2, prestige beverly hills project seo twitter:data2, prestige beverly hills project seo twitter:label3, prestige beverly hills project seo twitter:data3, prestige beverly hills project seo twitter:label4, prestige beverly hills project seo twitter:data4, prestige beverly hills project seo twitter:label5, prestige beverly hills project seo twitter:data5, prestige beverly hills project seo twitter:label6, prestige beverly hills project seo twitter:data6, prestige beverly hills project seo twitter:label7, prestige beverly hills project seo twitter:data7, prestige beverly hills project seo twitter:label8, prestige beverly hills project seo twitter:data"
+        }
+    }
+    

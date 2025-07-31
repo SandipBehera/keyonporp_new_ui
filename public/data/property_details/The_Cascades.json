@@ -1,0 +1,187 @@
+{
+    "project_name": "The Cascades",
+    "developed_by": "GHR LAKSHMI URBAN BLOCKS",
+    "project_type": "Residential",
+    "location": "NEOPOLIS Layout II, Kokapet, Hyderabad",
+    "description": "The Cascades - Life Appreciates Here",
+    "bedroom": "3, 4, & 5 BHK Flats",
+    "tower": "5 Tower - G+62 Floors",
+    "area": "73 Acres",
+    "money": "Starts From ₹ 10,000 PSF* Onwards",
+    "rera_id":"P02400009538",
+    "project_description": [
+      {
+"description": "A powerful trio unite. 5 luxurious towers of 63 floors each, spread across 7.34 acres, carefully balances home, work and luxury hospitality, and has been designed in accordance with Vastu principles."
+      },
+      {
+        "description": "The apartments are spacious and inviting and you can look forward to 1189 intelligently planned 3 & 4 BHK’s and 10 exclusive triplex penthouses with private pools, alongside a club house, under tower amenities, podium landscape, tower lounges, sky lounge, sky garden and 2 helipads. And for those who aspire for the heights of luxury, the sky lounge accessible via exclusive lifts with views of the city, promise an unmatched experience. "
+      },
+      {
+        "description": "Beyond the magnificence of its luxurious design, these living spaces with their WELL and IGBC Pre-Certification drive wellness, sustainability and smart living with utmost sincerity ensuring a holistic, healthy life."
+      }
+    ],
+    "gallery": {
+      "prop_images": [
+        {
+          "title": "The cascades 1",
+          "src": "assets/keyon_img/property_img/ghr_cascade/banner.jpg"
+        },
+        {
+          "title": "The cascades 2",
+          "src": "assets/keyon_img/property_img/ghr_cascade/prop1.jpeg"
+        },
+        {
+          "title": "The cascades 3",
+          "src": "assets/keyon_img/property_img/ghr_cascade/prop2.jpeg"
+        },
+        
+        {
+          "title": "The cascades 5",
+          "src": "assets/keyon_img/property_img/ghr_cascade/prop4.jpeg"
+        },
+        {
+          "title": "The cascades 6",
+          "src": "assets/keyon_img/property_img/ghr_cascade/prop5.jpeg"
+        },
+        {
+          "title": "The cascades 7",
+          "src": "assets/keyon_img/property_img/ghr_cascade/prop6.jpeg"
+        },
+        {
+          "title": "The cascades 4",
+          "src": "assets/keyon_img/property_img/ghr_cascade/prop3.jpeg"
+        },
+        {
+          "title": "The cascades 8",
+          "src": "assets/keyon_img/property_img/ghr_cascade/prop7.jpeg"
+        },
+        {
+          "title": "The cascades 9",
+          "src": "assets/keyon_img/property_img/ghr_cascade/prop8.jpeg"
+        }
+      ],
+      "floor_plan": [
+        {
+          "title": "The cascade floor 1",
+          "src": "assets/keyon_img/property_img/ghr_cascade/floor1.png"
+        },
+        {
+          "title": "The cascade floor 2",
+          "src": "assets/keyon_img/property_img/ghr_cascade/floor2.png"
+        },
+        {
+          "title": "The cascade floor 3",
+          "src": "assets/keyon_img/property_img/ghr_cascade/floor3.png"
+        },
+        {
+          "title": "The cascade floor 4",
+          "src": "assets/keyon_img/property_img/ghr_cascade/floor4.png"
+        }
+      ],
+      "master_plan": [
+        {
+          "title": "The Cascade master plan",
+          "src": "assets/keyon_img/property_img/ghr_cascade/master_plan.png"
+        }
+      ]
+    },
+    "amenities": {
+      "amenities": [
+        {
+          "title": "50,000+sq ft CLUBHOUSE AREA",
+          "src": "fa-video"
+        },
+        {
+          "title": "2 Helipads",
+          "src": "fa-plane"
+        },
+        {
+          "title": " Library With Lounge",
+          "src": "fa-book"
+        },
+        {
+          "title": " Infinity Pool",
+          "src": "fa-water-ladder"
+        },
+        {
+          "title": "Gym",
+          "src": "fa-dumbbell"
+        },
+        {
+          "title": "Pharmacy",
+          "src": "fa-prescription"
+        },
+        {
+          "title": "Jogging Track",
+          "src": "fa-person-running"
+        },
+        {
+          "title": "Community Hall",
+          "src": "fa-group-arrows-rotate"
+        },
+        {
+          "title": "Banquet Hall",
+          "src": "fa-shop"
+        },
+        {
+          "title": "Ootdoor & Indoor Games",
+          "src": "fa-futbol"
+        },
+        {
+          "title": "Utility Shop",
+          "src": "fa-gears"
+        },
+        {
+          "title": "Garden",
+          "src": "fa-tree-city"
+        },
+        {
+          "title": "kids Play area",
+          "src": "fa-children"
+        }
+      ]
+    },
+    "project_location": {
+      "location":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.087016683477!2d78.3051085!3d17.407611199999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb95ca9273dd09%3A0x2afdbcc07b54a125!2sThe%20Cascades%2C%20GHR%20LAKSHMI%20URBAN%20BLOCKS!5e0!3m2!1sen!2sin!4v1748367321204!5m2!1sen!2sin"
+    },
+    "nearby_projects": [
+      {
+        "id": 1,
+        "img": "assets/keyon_img/property_img/sattva/Semi-Aerial_Eminence_1-scaled.webp",
+        "status": "Hot Selling",
+        "name": "Sattva LakeRidge",
+        "location": "Neopolis, Kokapet",
+        "description": "Sattva Lakeridge - Ultra premium residencies facing the panoramic views of Osman Sagar and Kokapet Lake meet the lavishness of Neopolis Hyderabad.",
+        "bedroom": "3, 4, & 5 BHK Flats",
+        "tower": "6 Tower - G+37 Floors",
+        "area": "9.5 Acres",
+        "money": "Starts From ₹ 11,200 PSF",
+        "location_keyword": [
+          "Gachibowli,Kokapet,Neopolis,Financial Dist,Hyderabad"
+        ]
+      },
+        {
+          "id": 2,
+          "name": "Prestige Clairemont",
+          "developed_by": "Prestige Group",
+          "project_type": "Residential",
+          "location": "Neopolis, Kokapet",
+          "description": "Prestige Clairemont is located in Neopolis, a newly established, futuristic, 500+ acre layout in Kokapet, which extends from the financial district.",
+          "bedroom": "3 & 4 BHK, Flats",
+          "tower": "6 Tower - 39 Floors",
+          "area": "7.56 Acres",
+          "money": "On Request",
+          "img": "assets/keyon_img/property_img/Prestige/gal4.webp",
+          "status": "Trending Property",
+          "location_keyword": [
+            "Gachibowli,Kokapet,Neopolis,Financial Dist,Hyderabad"
+          ]
+        }
+      ],
+      "SEO":{
+        "title":"The Cascades| Highrise LuxuryApartments @Neopolis, Hyderabad",
+        "description":"The Cascades Enquire Now| 5 Tower | 1199 Units | 50,000+sq ft CLUBHOUSE AREA| HT | Party Area | Private Lift | Home Office | Approved RERA No:P02400009538 | 3, 4, & 5 BHK Flats | ₹ 10,000 PSF* Onwards | G+62 Floors | 73 Acres | Neopolis Layout II, Kokapet, Hyderabad",
+        "keywords":"The Cascades, GHR LAKSHMI URBAN BLOCKS, Neopolis, Kokapet, Hyderabad, Luxury Apartments, Highrise Apartments, 3 BHK Flats, 4 BHK Flats, 5 BHK Flats, Residential Project, Luxury Living, Vastu Compliant, WELL Certified, IGBC Pre-Certified, Smart Living"
+      }
+  }
+  

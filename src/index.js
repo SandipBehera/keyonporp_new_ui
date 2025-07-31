@@ -1,13 +1,25 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./App";
+import reportWebVitals from "./reportWebVitals";
+import 'bootstrap/dist/css/bootstrap.css';
+import "bootstrap/dist/js/bootstrap.bundle.min.js";
+import "magnific-popup/dist/jquery.magnific-popup.js";
+import "aos/dist/aos.css";
+import "@fortawesome/fontawesome-free/css/all.min.css";
+import AOS from "aos";
+import "./global.css";
+import { HelmetProvider } from "react-helmet-async";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+AOS.init();
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
+    <HelmetProvider>
     <App />
+    </HelmetProvider>
   </React.StrictMode>
 );
 
